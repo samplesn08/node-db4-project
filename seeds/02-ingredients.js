@@ -11,7 +11,10 @@ exports.seed = function(knex) {
         {ingredient_name: 'ground beef'},
         {ingredient_name: 'onion'},
         {ingredient_name: 'chili seasoning'},
-        {ingredient_name: 'diced green pepper'},
+        {ingredient_name: 'green bell pepper'},
+        {ingredient_name: 'bread'},
+        {ingredient_name: 'peanut butter'},
+        {ingredient_name: 'jelly'},
       ]);
     });
 };
